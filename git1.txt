@@ -3,4 +3,8 @@ this test git program
 gk
 vinnu
 raja
+<<<<<<< HEAD
 srikanth
+=======
+coc
+>>>>>>> a6fadf03c6bfa338e2859eaf4c61cb4fbdf29a61
